@@ -1,0 +1,22 @@
+{
+  "name": "distributed-shop.local",
+  "version": "1.0.0",
+  "description": "Online shop with distributed architecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Und3rMySk1n/distributed-shop.git"
+  },
+  "author": "Aleksey Koptelin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Und3rMySk1n/distributed-shop/issues"
+  },
+  "homepage": "https://github.com/Und3rMySk1n/distributed-shop#readme",
+  "dependencies": {
+    "amqplib": "^0.5.2"
+  }
+}
